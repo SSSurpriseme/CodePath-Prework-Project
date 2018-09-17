@@ -3,7 +3,7 @@
 //  hellodemo
 //
 //  Created by zheming miao on 9/7/18.
-//  Copyright © 2018 zheming miao. All rights reserved.
+//  Copyright  2018 zheming miao. All rights reserved.
 //
 
 import UIKit
