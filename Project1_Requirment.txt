@@ -1,0 +1,9 @@
+
+Paper summary and use case development 
+In no more than 10 pages, single-space, 12-pt font (New Roman), write a report to accomplish the following:
+1. Demonstrate your understanding on the paper regarding the psychometric design of a survey in the case 19472.
+2. Develop a use case, with a max of 5 questions (preferably 3 questions) to collect survey response that will help you mine your users regarding the following tasks:
+
+You are on a mission to build the greatest software (of your choice) in the world. But your software is only as good as you can engage your targeted users to offer you feedbacks/suggestions on bugs, desirable features, and how they want to use it. Therefore, you are going to set up an online survey anyone interested in your software can come fill out your survey and give you ideas on how to build your software that will become the greatest in the world. Apply what you learn frm the paper to design the questions, and design the validation protocol.
+
+The grade for this paper will be distributed 40% and 60% for task 1 and task 2 respectively. The due date for the reort is Feb 28 2019 the first 10 mins of the class.
